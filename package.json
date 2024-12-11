@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "kosmtik-fetch-remote": "github:kosmtik/kosmtik-fetch-remote",
+    "kosmtik-map-compare": "github:kosmtik/kosmtik-map-compare",
+    "kosmtik-osm-data-overlay": "github:kosmtik/kosmtik-osm-data-overlay",
+    "kosmtik-overlay": "github:kosmtik/kosmtik-overlay",
+    "kosmtik-overpass-layer": "github:kosmtik/kosmtik-overpass-layer",
+    "kosmtik-tiles-export": "github:kosmtik/kosmtik-tiles-export"
+  }
+}

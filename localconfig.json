@@ -1,0 +1,15 @@
+[
+    {
+        "where": "center",
+        "then": [54.7047, 20.5657, 12]
+    },
+    {
+        "where": "Layer",
+        "if": {
+            "Datasource.type": "postgis"
+        },
+        "then": {
+            "Datasource.dbname": "gis"
+        }
+    }
+]
