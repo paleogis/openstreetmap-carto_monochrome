@@ -1,8 +1,8 @@
 @placenames: #222;
 @placenames-light: #777777;
-@country-labels: darken(@admin-boundaries-narrow, 10%);
-@state-labels: desaturate(@admin-boundaries-narrow, 5%);
-@county-labels: darken(@admin-boundaries-wide, 5%);
+@country-labels: darken(#999999, 10%);
+@state-labels: desaturate(#999999, 5%);
+@county-labels: darken(#999999, 5%);
 
 #country-names {
   [zoom >= 3][zoom < 5][way_pixels > 1000],

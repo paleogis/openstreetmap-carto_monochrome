@@ -1,6 +1,6 @@
-# OpenStreetMap Carto Monochrome
+# OpenStreetMap Carto
 
-![screenshot](https://raw.githubusercontent.com/paleogis/openstreetmap-carto_monochrome/refs/heads/main/preview.png)
+![screenshot](https://raw.github.com/gravitystorm/openstreetmap-carto/master/preview.png)
 
 These are the CartoCSS map stylesheets for the Standard map layer on [OpenStreetMap.org](https://www.openstreetmap.org/).
 
@@ -94,8 +94,6 @@ maps using Mapnik, many based on this project. Some alternatives are:
 * Christoph Hormann [@imagico](https://github.com/imagico)
 * Lukas Sommer [@sommerluk](https://github.com/sommerluk)
 * Joseph Eisenberg [@jeisenbe](https://github.com/jeisenbe)
-* Paleogis [@Paleogis](https://github.com/paleogis)
-* 
 
 ## Previous maintainers
 
